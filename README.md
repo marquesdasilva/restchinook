@@ -1,2 +1,2 @@
-restchinook
+Chinook RESTfull
 ===========
